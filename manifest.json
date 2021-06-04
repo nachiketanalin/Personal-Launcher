@@ -1,0 +1,12 @@
+{
+    "manifest_version":2,
+    "name":"launcher",
+    "description":"quick launch imp",
+    "version":"1.0.0",
+    "icons":{"128":"n_128.png"},
+    "browser_action":{
+        "default-icon":"n_19.jpg",
+        "default_popup":"popup.html"                     
+    },
+    "permissions":["activeTab"]
+}    
